@@ -1,2 +1,0 @@
-# cichangjiance
-course_2
